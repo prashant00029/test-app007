@@ -1,0 +1,79 @@
+/**
+* user Info
+*/
+.memberHeader {
+	margin: 0;
+	border-bottom: 1px solid #999;
+	clear: right;
+}
+.memberInfo {
+	border-right: 2px solid #333;
+	border-top: 1px solid #333;
+	margin: 0 0 10px 0;
+	background: url(../img/branch_bottom.png) repeat-x bottom;
+}
+.memberInfo h3, .memberInfo p {
+	margin: 5px 0 5px 0;
+}
+.permissionList {
+	width: 350px;
+	float: right;
+	margin: 0;
+}
+.permissionList table {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 0;
+	border-collapse: collapse;
+	clear: both;
+}
+.permissionList .member {
+	background: #F6F6F6;
+}
+.permissionList p {
+	clear: both;
+	margin:0;
+}
+.permissionList h4 {
+	margin: 0px 40px 0px 0px;
+	line-height: 1.75em;
+	float: left;
+	font-weight: bold;
+}
+.permissionList .addpermission {
+	line-height: 1.75em;
+	font-size: small;
+}
+
+.displayLink {
+	text-decoration: none;
+	color: #5E88B6!important;
+	display: block;
+	padding-left: 32px;
+	line-height: 32px;
+	background: #fff url(../img/branches_arrow_up.png) no-repeat left center;
+}
+.displayLink img {
+	border: 0;
+	float: left;
+}
+.displayLink:hover {
+	background: #F6F6F6 url(../img/branches_arrow_over.png) no-repeat left center;
+}
+a.membernew {
+/*	background: url(/img/group_add.png) no-repeat left center;*/
+}
+a.member_notes {
+	background: url(../img/page_edit.png) no-repeat left center;
+	padding-left: 21px;
+}
+a.member_edit {
+	background: url(../img/group_edit.png) no-repeat left center;
+	padding-left: 21px;
+}
+a.member_delete {
+	background: url(../img/group_delete.png) no-repeat left center;
+	padding-left: 21px;
+}
+
+

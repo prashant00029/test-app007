@@ -1,0 +1,71 @@
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/*  RELATED ACTIVIES BOX */	
+
+#related-activities	{
+	float: right;
+	font-size: 0px;
+	line-height: 0;
+	width: 271px;
+	}
+#related-act-top	{
+	font-size: 0px;
+	line-height: 0;
+	}
+#related-act-bottom	{
+	background: url(../images/forms/bg_related_act.png) no-repeat bottom;
+	font-size: 0px;
+	line-height: 0;
+	}
+#related-act-inner	{
+	font-size: 11px;
+	line-height: 16px;
+	margin: 0 auto 0px auto;
+	padding: 10px 0 20px 0;
+	width: 225px;
+	}
+#related-act-inner .left	{
+	float: left;
+	width: 30px;
+	}
+#related-act-inner .right	{
+	float: left;
+	width: 195px;
+	padding: 2px 0 0 0;
+	}
+#related-act-inner .right h5	{
+	color: #393939;
+	font-size: 12px;
+	}
+ul.greyarrow	{
+	list-style-type: none;
+	}
+ul.greyarrow li	{
+	background: url(../images/forms/icon_list_arrow.gif) no-repeat 0 5px;
+	line-height: 18px;
+	padding: 0 0 0 12px;
+	}
+ul.greyarrow li a	{
+	color: #92b22c;
+	font-weight: bold;
+	}
+ul.greyarrow li a:hover	{
+	text-decoration: underline;
+	}
+.lines-dotted-short	{
+	background: url(../images/forms/lines_dotted_short.gif) no-repeat 0px 14px;
+	font-size: 0px;
+	height: 28px;
+	line-height: 0;
+	}
+	
